@@ -334,7 +334,7 @@ Yuanyuan Ji, Zhengping Wang,Raju Chaudhary,Sampath Perumal,Pierre Hucl,Bill Bili
 
 ### Table S6:Gene IDs enriched in nitrogen metabolism for distinct regulation patterns and comparisons.
 
-  ### W6 56551_D1 vs. D0 (Up-regulation)
+  ### Table S6.1 W6 56551_D1 vs. D0 (Up-regulation)
   | Entrez ID | nitrogen metabolism     | Gene function                                        |
 |-----------|-------------------------|------------------------------------------------------|
 | 100844060 | P_spicata_chr1_004883.1 | carbonic anhydrase                                   |
@@ -343,14 +343,14 @@ Yuanyuan Ji, Zhengping Wang,Raju Chaudhary,Sampath Perumal,Pierre Hucl,Bill Bili
 | 100842712 | P_spicata_chr2_007796.1 | Glutamine synthetase leaf isozyme, chloroplastic     |
 | 100837442 | P_spicata_chr2_003238.1 | alpha carbonic anhydrase 1, chloroplastic isoform X1 |
 
-   ### W6 56551_D1 vs. D0 (Down-regulation)
+   ### Table S6.2 W6 56551_D1 vs. D0 (Down-regulation)
    | Entrez ID | nitrogen metabolism     | Gene function               |
 |-----------|-------------------------|-----------------------------|
 | 100834419 | P_spicata_chr4_004940.1 | cyanate hydratase           |
 | 100827784 | P_spicata_chr6_003823.1 | nitrate reductase [NAD(P)H] |
 | 100829419 | P_spicata_chr6_010042.1 | nitrate reductase [NAD(P)H] |
 
-   ### W6 56551_D4 vs. D1 (Down-regulation)
+   ### Table S6.3 W6 56551_D4 vs. D1 (Down-regulation)
    | Entrez ID | nitrogen metabolism     | Gene function                                |
 |-----------|-------------------------|----------------------------------------------|
 | 100826356 | P_spicata_chr6_000947.1 | putative high-affinity nitrate transporter   |
